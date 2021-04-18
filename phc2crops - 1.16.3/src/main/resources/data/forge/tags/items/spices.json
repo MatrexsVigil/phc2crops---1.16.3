@@ -1,0 +1,9 @@
+{
+		"replace": false,
+		"values": [
+			"#forge:spices/ginger",
+			"#forge:spices/mustardseeds",
+			"#forge:spices/sesameseeds",
+			"#forge:spices/spiceleaf"
+	]
+}

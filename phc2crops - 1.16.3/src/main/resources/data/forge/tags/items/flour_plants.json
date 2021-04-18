@@ -1,0 +1,26 @@
+{
+	"replace": false,
+	"values": [
+		"#forge:flour_plants/amaranth",
+		"#forge:flour_plants/arrowroot",
+		"#forge:flour_plants/barley",
+		"#forge:flour_plants/bean",
+		"#forge:flour_plants/cassava",
+		"#forge:flour_plants/chickpea",
+		"#forge:flour_plants/corn",
+		"#forge:flour_plants/jicama",
+		"#forge:flour_plants/lentil",
+		"#forge:flour_plants/millet",
+		"#forge:flour_plants/oat",
+		"#forge:flour_plants/oats",
+		"#forge:flour_plants/pea",
+		"#forge:flour_plants/peas",
+		"#forge:flour_plants/peanut",
+		"#forge:flour_plants/quinoa",
+		"#forge:flour_plants/rice",
+		"#forge:flour_plants/rutabaga",
+		"#forge:flour_plants/rye",
+		"#forge:flour_plants/soybean",
+		"#forge:flour_plants/taro"
+	]	
+}
